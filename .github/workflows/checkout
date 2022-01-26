@@ -1,0 +1,10 @@
+Run git push heroku master
+  git push heroku master
+  shell: /usr/bin/bash -e {0}
+remote:
+remote: !	Push rejected, source repository is a shallow clone. Unshallow it with `git fetch --all --unshallow` and try pushing again.
+remote:
+To https://git.heroku.com/***.git
+ ! [remote rejected] master -> master (shallow update not allowed)
+error: failed to push some refs to 'https://git.heroku.com/***.git'
+Error: Process completed with exit code 1.
