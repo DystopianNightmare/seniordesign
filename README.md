@@ -8,4 +8,4 @@
 <p>Kyle Worley</p>
 </h4>
 
-This project does some stuff. It does some other stuff too. It mostly works uses stuff to do other stuff. 
+This project does some stuff. It does some other stuff too. It mostly works using stuff to do other stuff. 
